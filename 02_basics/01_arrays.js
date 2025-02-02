@@ -27,7 +27,7 @@ const d = [1,3,4,5,7,8]
 const f = d.splice(0,5)
 // console.log(f);
 
-let arr22 = ['apple', 'banana', 'cherry', 'date']
+let arr22 = ['apple', 'banana', 'cherry', 'date' ,"0"]
 const m = arr22.splice(1,1)
 arr22.splice(1,1,"orange", "kiwi")
 arr22.splice(4,0,"mango")
